@@ -1,0 +1,160 @@
+h1 {
+font-family: impact;
+font-size: 100px;
+color: #EFEFEF;
+text-align: center;
+  }
+h2 {
+	font-family: sans-serif;
+	font-size: 45px;
+	color: darkgrey;
+	text-align: center;
+}
+img {
+	width: 1700px;
+	
+}   
+
+area{
+    outline: none;
+}
+
+.social-buttons {
+	background-color: white;
+	font-family: arial;
+	font-size: 15px;
+	color: black;
+	padding: 5px
+
+}
+.image-wrapper{
+	position: relative;
+	width: 1250px;
+}
+.image-wrapper button{
+	position: absolute;
+}
+.btn-USA {
+	top: 485px;
+	left: 300px;
+}
+
+.NY {
+	color: #F5A721;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	top: 485px;
+	left: 300px;
+
+}
+
+.MU {
+	color: #2FB1C0;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	top: 485px;
+	left: 300px;
+}
+
+.RDJ {
+	color: #BAEB48;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	top: 485px;
+	left: 300px;
+}
+
+.MW {
+	color: #F5A721;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	top: 485px;
+	left: 300px;
+}
+
+.SY {
+	color: #EF385D;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	top: 485px;
+	left: 300px;
+}
+
+.facebook {
+	width:50px;
+	margin: 0 auto;
+}
+
+.twitter {
+	width: 50px;
+	margin: 0 auto;
+
+}
+
+.insta {
+	width:60px;
+	margin: 0 auto;
+}
+
+.social-media{
+	margin-left: 750px
+
+}
+
+.container1{
+	text-align: right;
+}
+
+.home {
+	color: #EFEFEF;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin: 30px;
+	text-align: right;
+	
+}
+
+.about {
+	color: #EFEFEF;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin: 30px;
+	text-align: right;
+	}
+
+.contact {
+	color: #EFEFEF;
+	text-decoration: unset;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin: 30px;
+	text-align: right;
+	
+}
+/* mouse over link */
+.home:hover {
+    color: #2FB1C0;
+}
+
+.contact:hover {
+    color: #BAEB48;
+}
+
+.about:hover {
+    color: #F5A721;
+}
+
+.brazil: hover{
+	color: red;
+}
+
+div {
+    cursor:url(plane.png),auto;
+}
